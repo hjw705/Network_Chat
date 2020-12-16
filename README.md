@@ -45,6 +45,10 @@ Network Chatting Program for Term Project:star2:
   연산 결과는 채팅을 하던 과정에서 확인할 수 있습니다.
 </p><br/>
 
-
+<h2> Youtube Link </h2>
+<p> 사진을 누르시면 프로젝트 발표 영상으로 이동하실 수 있습니다.<br/>
+        </p><br/>
+        
 [![Network_Term_Chat](http://img.youtube.com/vi/do5qNnuvckQ/0.jpg)](https://youtu.be/do5qNnuvckQ)  
+
 
