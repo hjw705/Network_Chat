@@ -46,5 +46,5 @@ Network Chatting Program for Term Project:star2:
 </p><br/>
 
 
-{% include 파일명.html id="유튜브동영상url" %}  
+[![Network_Term_Chat](http://img.youtube.com/vi/do5qNnuvckQ/0.jpg)](https://youtu.be/do5qNnuvckQ)  
 
